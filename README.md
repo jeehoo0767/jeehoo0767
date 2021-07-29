@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeehoo0767&theme=radical&show_icons=true&count_private=true&include_all_commits=true)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehoo0767&hide=html)](https://github.com/jeehoo0767/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehoo0767&hide=html, java&layout=compact)](https://github.com/jeehoo0767/github-readme-stats)
 
 
 <!--

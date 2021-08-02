@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.jeehoo0767.com)</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeehoo0767&theme=radical&show_icons=true&count_private=true&include_all_commits=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehoo0767&layout=compact&hide=java)](https://github.com/jeehoo0767/github-readme-stats)
 

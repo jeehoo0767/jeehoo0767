@@ -1,4 +1,4 @@
-### 🏃‍ ♂️working
+### 🏃‍ 안녕하세요! 프론트엔드 개발자 박지후 입니다!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeehoo0767&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&include_all_commits=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehoo0767&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=java,html)](https://github.com/jeehoo0767/github-readme-stats)
 

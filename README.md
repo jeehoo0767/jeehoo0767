@@ -2,6 +2,8 @@
 
 # 💫 About Me
 ✨  프론트엔드 개발자 입니다
+
+# 🚀 Tech Stack
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="64" height="64" /></div>
 
 

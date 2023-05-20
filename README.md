@@ -1,5 +1,5 @@
 ## 💫 About Me
-✨  안녕하세요! [박지후](https://github.com/지후) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
+✨ 안녕하세요! [박지후](https://github.com/지후) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
 ## 🚀 Tech Stack
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="64" height="64" /></div>

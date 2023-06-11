@@ -1,6 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
-## 💫 About Me
 ✨ 안녕하세요! [박지후](https://github.com/지후) 입니다!
 
 ## 🚀 Tech Stack
